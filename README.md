@@ -1,2 +1,2 @@
-# questgit5
+LOCALS
 que la quête commence !
