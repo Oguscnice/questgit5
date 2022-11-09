@@ -1,2 +1,2 @@
-REMOTE
+REMOTES
 que la quête commence !
